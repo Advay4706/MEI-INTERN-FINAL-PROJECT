@@ -1,0 +1,25 @@
+Raw Data
+     │
+     ▼
+Master Dataset
+     │
+     ▼
+Feature Engineering
+     │
+     ▼
+Train/Test Split
+     │
+     ▼
+Linear Regression
+     │
+     ▼
+Random Forest
+     │
+     ▼
+Compare Models
+     │
+     ▼
+Best Model
+     │
+     ▼
+Predict Future Error
